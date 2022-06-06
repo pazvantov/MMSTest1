@@ -1,0 +1,13 @@
+3.1 
+ps aux
+
+3.2
+mkdir "MMS C camp"
+cp *.c . "MMS C camp"
+
+3.3
+cd ~/Desktop
+chmod 754 testFile
+
+3.4
+wc -l source1.c source2.c >> lineCount
